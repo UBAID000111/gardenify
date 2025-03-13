@@ -7,12 +7,12 @@
             "soil": "Sandy",
             "land_area": "100-200 sq ft",
             "planting_instructions": {
-                "seed": "Buy onion seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy onion seeds or sets.",
+                "planting": "Plant in sandy or loamy soil, 1 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and provide compost.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Pull when tops fall over and dry."
             }
         },
         {
@@ -22,12 +22,12 @@
             "soil": "Loamy",
             "land_area": "50-100 sq ft",
             "planting_instructions": {
-                "seed": "Buy onion seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy onion seeds or sets.",
+                "planting": "Plant in sandy or loamy soil, 1 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and provide compost.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Pull when tops fall over and dry."
             }
         },
         {
@@ -37,12 +37,12 @@
             "soil": "Loamy",
             "land_area": "50-100 sq ft",
             "planting_instructions": {
-                "seed": "Buy onion seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy onion seeds or sets.",
+                "planting": "Plant in sandy or loamy soil, 1 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and provide compost.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Pull when tops fall over and dry."
             }
         },
         {
@@ -53,11 +53,11 @@
             "land_area": "50-100 sq ft",
             "planting_instructions": {
                 "seed": "Buy spinach seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loamy soil, 1/2 inch deep.",
+                "watering": "Water regularly to keep soil moist.",
+                "care": "Protect from extreme heat.",
+                "time_to_grow": "40-50 days.",
+                "harvest": "Cut leaves when mature."
             }
         },
         {
@@ -67,12 +67,12 @@
             "soil": "Sandy",
             "land_area": "50-100 sq ft",
             "planting_instructions": {
-                "seed": "Buy onion seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy onion seeds or sets.",
+                "planting": "Plant in sandy or loamy soil, 1 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and provide compost.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Pull when tops fall over and dry."
             }
         },
         {
@@ -82,12 +82,12 @@
             "soil": "Loamy",
             "land_area": "200-300 sq ft",
             "planting_instructions": {
-                "seed": "Buy mango seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Use mango seeds or saplings.",
+                "planting": "Plant in loamy soil with full sunlight.",
+                "watering": "Water deeply but allow soil to dry between watering.",
+                "care": "Prune to manage size and shape.",
+                "time_to_grow": "5-8 years.",
+                "harvest": "Pick when skin turns yellowish-orange."
             }
         },
         {
@@ -97,12 +97,12 @@
             "soil": "Sandy",
             "land_area": "100-200 sq ft",
             "planting_instructions": {
-                "seed": "Buy onion seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy onion seeds or sets.",
+                "planting": "Plant in sandy or loamy soil, 1 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and provide compost.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Pull when tops fall over and dry."
             }
         },
         {
@@ -113,11 +113,11 @@
             "land_area": "100-200 sq ft",
             "planting_instructions": {
                 "seed": "Buy spinach seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loamy soil, 1/2 inch deep.",
+                "watering": "Water regularly to keep soil moist.",
+                "care": "Protect from extreme heat.",
+                "time_to_grow": "40-50 days.",
+                "harvest": "Cut leaves when mature."
             }
         },
         {
@@ -128,11 +128,11 @@
             "land_area": "50-100 sq ft",
             "planting_instructions": {
                 "seed": "Buy carrot seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loose, sandy soil about 1/4 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and thin seedlings.",
+                "time_to_grow": "70-80 days.",
+                "harvest": "Pull when roots are about 6 inches long."
             }
         },
         {
@@ -143,11 +143,11 @@
             "land_area": "100-200 sq ft",
             "planting_instructions": {
                 "seed": "Buy chili seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in well-drained loamy soil, 1/4 inch deep.",
+                "watering": "Water regularly but avoid overwatering.",
+                "care": "Protect from pests and provide support for stems.",
+                "time_to_grow": "60-90 days.",
+                "harvest": "Pick when peppers are firm and colorful."
             }
         },
         {
@@ -158,11 +158,11 @@
             "land_area": "50-100 sq ft",
             "planting_instructions": {
                 "seed": "Buy lettuce seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Sow seeds in cool weather, 1/4 inch deep.",
+                "watering": "Keep soil consistently moist.",
+                "care": "Protect from direct sunlight and pests.",
+                "time_to_grow": "30-50 days.",
+                "harvest": "Cut leaves when they reach desired size."
             }
         },
         {
@@ -172,12 +172,12 @@
             "soil": "Loamy",
             "land_area": "50-100 sq ft",
             "planting_instructions": {
-                "seed": "Buy tomato seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy tomato seeds or use from a ripe tomato.",
+                "planting": "Plant in well-drained soil with full sunlight.",
+                "watering": "Water regularly, keeping the soil moist.",
+                "care": "Use organic fertilizer and provide support for vines.",
+                "time_to_grow": "60-90 days.",
+                "harvest": "Pick when fully red and firm."
             }
         },
         {
@@ -187,12 +187,12 @@
             "soil": "Loamy",
             "land_area": "100-200 sq ft",
             "planting_instructions": {
-                "seed": "Buy onion seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy onion seeds or sets.",
+                "planting": "Plant in sandy or loamy soil, 1 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and provide compost.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Pull when tops fall over and dry."
             }
         },
         {
@@ -203,11 +203,11 @@
             "land_area": "200-300 sq ft",
             "planting_instructions": {
                 "seed": "Buy watermelon seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in sandy soil with good sunlight.",
+                "watering": "Water deeply but infrequently.",
+                "care": "Mulch to retain moisture and prevent weeds.",
+                "time_to_grow": "70-90 days.",
+                "harvest": "Pick when the underside turns yellow."
             }
         },
         {
@@ -217,12 +217,12 @@
             "soil": "Loamy",
             "land_area": "50-100 sq ft",
             "planting_instructions": {
-                "seed": "Buy tomato seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy tomato seeds or use from a ripe tomato.",
+                "planting": "Plant in well-drained soil with full sunlight.",
+                "watering": "Water regularly, keeping the soil moist.",
+                "care": "Use organic fertilizer and provide support for vines.",
+                "time_to_grow": "60-90 days.",
+                "harvest": "Pick when fully red and firm."
             }
         },
         {
@@ -233,11 +233,11 @@
             "land_area": "100-200 sq ft",
             "planting_instructions": {
                 "seed": "Buy spinach seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loamy soil, 1/2 inch deep.",
+                "watering": "Water regularly to keep soil moist.",
+                "care": "Protect from extreme heat.",
+                "time_to_grow": "40-50 days.",
+                "harvest": "Cut leaves when mature."
             }
         },
         {
@@ -248,11 +248,11 @@
             "land_area": "100-200 sq ft",
             "planting_instructions": {
                 "seed": "Buy cabbage seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in clay soil, 1/2 inch deep.",
+                "watering": "Water consistently to avoid splitting.",
+                "care": "Protect from pests and provide compost.",
+                "time_to_grow": "60-100 days.",
+                "harvest": "Cut heads when firm and fully formed."
             }
         },
         {
@@ -263,11 +263,11 @@
             "land_area": "100-200 sq ft",
             "planting_instructions": {
                 "seed": "Buy chili seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in well-drained loamy soil, 1/4 inch deep.",
+                "watering": "Water regularly but avoid overwatering.",
+                "care": "Protect from pests and provide support for stems.",
+                "time_to_grow": "60-90 days.",
+                "harvest": "Pick when peppers are firm and colorful."
             }
         },
         {
@@ -278,11 +278,11 @@
             "land_area": "10-50 sq ft",
             "planting_instructions": {
                 "seed": "Buy lettuce seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Sow seeds in cool weather, 1/4 inch deep.",
+                "watering": "Keep soil consistently moist.",
+                "care": "Protect from direct sunlight and pests.",
+                "time_to_grow": "30-50 days.",
+                "harvest": "Cut leaves when they reach desired size."
             }
         },
         {
@@ -292,12 +292,12 @@
             "soil": "Loamy",
             "land_area": "100-200 sq ft",
             "planting_instructions": {
-                "seed": "Buy tomato seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy tomato seeds or use from a ripe tomato.",
+                "planting": "Plant in well-drained soil with full sunlight.",
+                "watering": "Water regularly, keeping the soil moist.",
+                "care": "Use organic fertilizer and provide support for vines.",
+                "time_to_grow": "60-90 days.",
+                "harvest": "Pick when fully red and firm."
             }
         },
         {
@@ -308,11 +308,11 @@
             "land_area": "50-100 sq ft",
             "planting_instructions": {
                 "seed": "Buy lettuce seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Sow seeds in cool weather, 1/4 inch deep.",
+                "watering": "Keep soil consistently moist.",
+                "care": "Protect from direct sunlight and pests.",
+                "time_to_grow": "30-50 days.",
+                "harvest": "Cut leaves when they reach desired size."
             }
         },
         {
@@ -322,12 +322,12 @@
             "soil": "Loamy",
             "land_area": "100-200 sq ft",
             "planting_instructions": {
-                "seed": "Buy tomato seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy tomato seeds or use from a ripe tomato.",
+                "planting": "Plant in well-drained soil with full sunlight.",
+                "watering": "Water regularly, keeping the soil moist.",
+                "care": "Use organic fertilizer and provide support for vines.",
+                "time_to_grow": "60-90 days.",
+                "harvest": "Pick when fully red and firm."
             }
         },
         {
@@ -338,11 +338,11 @@
             "land_area": "100-200 sq ft",
             "planting_instructions": {
                 "seed": "Buy spinach seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loamy soil, 1/2 inch deep.",
+                "watering": "Water regularly to keep soil moist.",
+                "care": "Protect from extreme heat.",
+                "time_to_grow": "40-50 days.",
+                "harvest": "Cut leaves when mature."
             }
         },
         {
@@ -352,12 +352,12 @@
             "soil": "Loamy",
             "land_area": "300-500 sq ft",
             "planting_instructions": {
-                "seed": "Buy potato seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Use seed potatoes or sprouted potatoes.",
+                "planting": "Plant in rows 4 inches deep in loamy soil.",
+                "watering": "Water moderately but deeply.",
+                "care": "Hill up soil around the base as plants grow.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Dig when plants yellow and die back."
             }
         },
         {
@@ -368,11 +368,11 @@
             "land_area": "50-100 sq ft",
             "planting_instructions": {
                 "seed": "Buy spinach seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loamy soil, 1/2 inch deep.",
+                "watering": "Water regularly to keep soil moist.",
+                "care": "Protect from extreme heat.",
+                "time_to_grow": "40-50 days.",
+                "harvest": "Cut leaves when mature."
             }
         },
         {
@@ -382,12 +382,12 @@
             "soil": "Clay",
             "land_area": "300-500 sq ft",
             "planting_instructions": {
-                "seed": "Buy apple seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Use apple seeds or saplings.",
+                "planting": "Plant in clay soil with good drainage.",
+                "watering": "Water deeply once a week.",
+                "care": "Prune regularly and protect from pests.",
+                "time_to_grow": "3-5 years.",
+                "harvest": "Pick when ripe and firm."
             }
         },
         {
@@ -398,11 +398,11 @@
             "land_area": "50-100 sq ft",
             "planting_instructions": {
                 "seed": "Buy spinach seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loamy soil, 1/2 inch deep.",
+                "watering": "Water regularly to keep soil moist.",
+                "care": "Protect from extreme heat.",
+                "time_to_grow": "40-50 days.",
+                "harvest": "Cut leaves when mature."
             }
         },
         {
@@ -412,12 +412,12 @@
             "soil": "Loamy",
             "land_area": "200-300 sq ft",
             "planting_instructions": {
-                "seed": "Buy strawberry seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy strawberry seeds or use runners.",
+                "planting": "Plant in loamy soil with good drainage.",
+                "watering": "Water regularly but avoid soggy soil.",
+                "care": "Protect from pests and mulch to retain moisture.",
+                "time_to_grow": "4-6 weeks.",
+                "harvest": "Pick when bright red and ripe."
             }
         },
         {
@@ -427,12 +427,12 @@
             "soil": "Loamy",
             "land_area": "50-100 sq ft",
             "planting_instructions": {
-                "seed": "Buy peas seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy pea seeds.",
+                "planting": "Plant in loamy soil, 1 inch deep.",
+                "watering": "Water regularly but avoid waterlogging.",
+                "care": "Provide support for climbing varieties.",
+                "time_to_grow": "50-70 days.",
+                "harvest": "Pick pods when plump and bright green."
             }
         },
         {
@@ -443,11 +443,11 @@
             "land_area": "10-50 sq ft",
             "planting_instructions": {
                 "seed": "Buy carrot seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loose, sandy soil about 1/4 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and thin seedlings.",
+                "time_to_grow": "70-80 days.",
+                "harvest": "Pull when roots are about 6 inches long."
             }
         },
         {
@@ -458,11 +458,11 @@
             "land_area": "100-200 sq ft",
             "planting_instructions": {
                 "seed": "Buy spinach seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loamy soil, 1/2 inch deep.",
+                "watering": "Water regularly to keep soil moist.",
+                "care": "Protect from extreme heat.",
+                "time_to_grow": "40-50 days.",
+                "harvest": "Cut leaves when mature."
             }
         },
         {
@@ -472,12 +472,12 @@
             "soil": "Clay",
             "land_area": "300-500 sq ft",
             "planting_instructions": {
-                "seed": "Buy potato seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Use seed potatoes or sprouted potatoes.",
+                "planting": "Plant in rows 4 inches deep in loamy soil.",
+                "watering": "Water moderately but deeply.",
+                "care": "Hill up soil around the base as plants grow.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Dig when plants yellow and die back."
             }
         },
         {
@@ -487,12 +487,12 @@
             "soil": "Loamy",
             "land_area": "100-200 sq ft",
             "planting_instructions": {
-                "seed": "Buy strawberry seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy strawberry seeds or use runners.",
+                "planting": "Plant in loamy soil with good drainage.",
+                "watering": "Water regularly but avoid soggy soil.",
+                "care": "Protect from pests and mulch to retain moisture.",
+                "time_to_grow": "4-6 weeks.",
+                "harvest": "Pick when bright red and ripe."
             }
         },
         {
@@ -503,11 +503,11 @@
             "land_area": "200-300 sq ft",
             "planting_instructions": {
                 "seed": "Buy chili seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in well-drained loamy soil, 1/4 inch deep.",
+                "watering": "Water regularly but avoid overwatering.",
+                "care": "Protect from pests and provide support for stems.",
+                "time_to_grow": "60-90 days.",
+                "harvest": "Pick when peppers are firm and colorful."
             }
         },
         {
@@ -518,11 +518,11 @@
             "land_area": "300-500 sq ft",
             "planting_instructions": {
                 "seed": "Buy corn seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in blocks for pollination, 1 inch deep.",
+                "watering": "Water deeply once a week.",
+                "care": "Provide nitrogen-rich fertilizer.",
+                "time_to_grow": "60-100 days.",
+                "harvest": "Harvest when kernels are full and milky."
             }
         },
         {
@@ -533,11 +533,11 @@
             "land_area": "10-50 sq ft",
             "planting_instructions": {
                 "seed": "Buy lettuce seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Sow seeds in cool weather, 1/4 inch deep.",
+                "watering": "Keep soil consistently moist.",
+                "care": "Protect from direct sunlight and pests.",
+                "time_to_grow": "30-50 days.",
+                "harvest": "Cut leaves when they reach desired size."
             }
         },
         {
@@ -547,12 +547,12 @@
             "soil": "Loamy",
             "land_area": "100-200 sq ft",
             "planting_instructions": {
-                "seed": "Buy onion seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy onion seeds or sets.",
+                "planting": "Plant in sandy or loamy soil, 1 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and provide compost.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Pull when tops fall over and dry."
             }
         },
         {
@@ -563,11 +563,11 @@
             "land_area": "300-500 sq ft",
             "planting_instructions": {
                 "seed": "Buy watermelon seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in sandy soil with good sunlight.",
+                "watering": "Water deeply but infrequently.",
+                "care": "Mulch to retain moisture and prevent weeds.",
+                "time_to_grow": "70-90 days.",
+                "harvest": "Pick when the underside turns yellow."
             }
         },
         {
@@ -577,12 +577,12 @@
             "soil": "Loamy",
             "land_area": "10-50 sq ft",
             "planting_instructions": {
-                "seed": "Buy peas seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy pea seeds.",
+                "planting": "Plant in loamy soil, 1 inch deep.",
+                "watering": "Water regularly but avoid waterlogging.",
+                "care": "Provide support for climbing varieties.",
+                "time_to_grow": "50-70 days.",
+                "harvest": "Pick pods when plump and bright green."
             }
         },
         {
@@ -592,12 +592,12 @@
             "soil": "Loamy",
             "land_area": "10-50 sq ft",
             "planting_instructions": {
-                "seed": "Buy peas seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy pea seeds.",
+                "planting": "Plant in loamy soil, 1 inch deep.",
+                "watering": "Water regularly but avoid waterlogging.",
+                "care": "Provide support for climbing varieties.",
+                "time_to_grow": "50-70 days.",
+                "harvest": "Pick pods when plump and bright green."
             }
         },
         {
@@ -607,12 +607,12 @@
             "soil": "Loamy",
             "land_area": "200-300 sq ft",
             "planting_instructions": {
-                "seed": "Buy potato seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Use seed potatoes or sprouted potatoes.",
+                "planting": "Plant in rows 4 inches deep in loamy soil.",
+                "watering": "Water moderately but deeply.",
+                "care": "Hill up soil around the base as plants grow.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Dig when plants yellow and die back."
             }
         },
         {
@@ -623,11 +623,11 @@
             "land_area": "200-300 sq ft",
             "planting_instructions": {
                 "seed": "Buy chili seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in well-drained loamy soil, 1/4 inch deep.",
+                "watering": "Water regularly but avoid overwatering.",
+                "care": "Protect from pests and provide support for stems.",
+                "time_to_grow": "60-90 days.",
+                "harvest": "Pick when peppers are firm and colorful."
             }
         },
         {
@@ -637,12 +637,12 @@
             "soil": "Clay",
             "land_area": "200-300 sq ft",
             "planting_instructions": {
-                "seed": "Buy potato seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Use seed potatoes or sprouted potatoes.",
+                "planting": "Plant in rows 4 inches deep in loamy soil.",
+                "watering": "Water moderately but deeply.",
+                "care": "Hill up soil around the base as plants grow.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Dig when plants yellow and die back."
             }
         },
         {
@@ -653,11 +653,11 @@
             "land_area": "50-100 sq ft",
             "planting_instructions": {
                 "seed": "Buy cabbage seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in clay soil, 1/2 inch deep.",
+                "watering": "Water consistently to avoid splitting.",
+                "care": "Protect from pests and provide compost.",
+                "time_to_grow": "60-100 days.",
+                "harvest": "Cut heads when firm and fully formed."
             }
         },
         {
@@ -668,11 +668,11 @@
             "land_area": "10-50 sq ft",
             "planting_instructions": {
                 "seed": "Buy lettuce seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Sow seeds in cool weather, 1/4 inch deep.",
+                "watering": "Keep soil consistently moist.",
+                "care": "Protect from direct sunlight and pests.",
+                "time_to_grow": "30-50 days.",
+                "harvest": "Cut leaves when they reach desired size."
             }
         },
         {
@@ -683,11 +683,11 @@
             "land_area": "50-100 sq ft",
             "planting_instructions": {
                 "seed": "Buy lettuce seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Sow seeds in cool weather, 1/4 inch deep.",
+                "watering": "Keep soil consistently moist.",
+                "care": "Protect from direct sunlight and pests.",
+                "time_to_grow": "30-50 days.",
+                "harvest": "Cut leaves when they reach desired size."
             }
         },
         {
@@ -697,12 +697,12 @@
             "soil": "Sandy",
             "land_area": "100-200 sq ft",
             "planting_instructions": {
-                "seed": "Buy orange seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy orange seeds or grafted saplings.",
+                "planting": "Plant in sandy soil with full sunlight.",
+                "watering": "Water regularly but avoid soggy soil.",
+                "care": "Prune regularly and protect from pests.",
+                "time_to_grow": "2-3 years.",
+                "harvest": "Pick when bright orange and firm."
             }
         },
         {
@@ -712,12 +712,12 @@
             "soil": "Loamy",
             "land_area": "300-500 sq ft",
             "planting_instructions": {
-                "seed": "Buy mango seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Use mango seeds or saplings.",
+                "planting": "Plant in loamy soil with full sunlight.",
+                "watering": "Water deeply but allow soil to dry between watering.",
+                "care": "Prune to manage size and shape.",
+                "time_to_grow": "5-8 years.",
+                "harvest": "Pick when skin turns yellowish-orange."
             }
         },
         {
@@ -727,12 +727,12 @@
             "soil": "Loamy",
             "land_area": "50-100 sq ft",
             "planting_instructions": {
-                "seed": "Buy peas seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy pea seeds.",
+                "planting": "Plant in loamy soil, 1 inch deep.",
+                "watering": "Water regularly but avoid waterlogging.",
+                "care": "Provide support for climbing varieties.",
+                "time_to_grow": "50-70 days.",
+                "harvest": "Pick pods when plump and bright green."
             }
         },
         {
@@ -743,11 +743,11 @@
             "land_area": "10-50 sq ft",
             "planting_instructions": {
                 "seed": "Buy carrot seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loose, sandy soil about 1/4 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and thin seedlings.",
+                "time_to_grow": "70-80 days.",
+                "harvest": "Pull when roots are about 6 inches long."
             }
         },
         {
@@ -757,12 +757,12 @@
             "soil": "Clay",
             "land_area": "100-200 sq ft",
             "planting_instructions": {
-                "seed": "Buy strawberry seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy strawberry seeds or use runners.",
+                "planting": "Plant in loamy soil with good drainage.",
+                "watering": "Water regularly but avoid soggy soil.",
+                "care": "Protect from pests and mulch to retain moisture.",
+                "time_to_grow": "4-6 weeks.",
+                "harvest": "Pick when bright red and ripe."
             }
         },
         {
@@ -773,11 +773,11 @@
             "land_area": "10-50 sq ft",
             "planting_instructions": {
                 "seed": "Buy lettuce seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Sow seeds in cool weather, 1/4 inch deep.",
+                "watering": "Keep soil consistently moist.",
+                "care": "Protect from direct sunlight and pests.",
+                "time_to_grow": "30-50 days.",
+                "harvest": "Cut leaves when they reach desired size."
             }
         },
         {
@@ -788,11 +788,11 @@
             "land_area": "50-100 sq ft",
             "planting_instructions": {
                 "seed": "Buy lettuce seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Sow seeds in cool weather, 1/4 inch deep.",
+                "watering": "Keep soil consistently moist.",
+                "care": "Protect from direct sunlight and pests.",
+                "time_to_grow": "30-50 days.",
+                "harvest": "Cut leaves when they reach desired size."
             }
         },
         {
@@ -802,12 +802,12 @@
             "soil": "Clay",
             "land_area": "200-300 sq ft",
             "planting_instructions": {
-                "seed": "Buy strawberry seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy strawberry seeds or use runners.",
+                "planting": "Plant in loamy soil with good drainage.",
+                "watering": "Water regularly but avoid soggy soil.",
+                "care": "Protect from pests and mulch to retain moisture.",
+                "time_to_grow": "4-6 weeks.",
+                "harvest": "Pick when bright red and ripe."
             }
         },
         {
@@ -818,11 +818,11 @@
             "land_area": "50-100 sq ft",
             "planting_instructions": {
                 "seed": "Buy carrot seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loose, sandy soil about 1/4 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and thin seedlings.",
+                "time_to_grow": "70-80 days.",
+                "harvest": "Pull when roots are about 6 inches long."
             }
         },
         {
@@ -833,11 +833,11 @@
             "land_area": "50-100 sq ft",
             "planting_instructions": {
                 "seed": "Buy spinach seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "planting": "Plant in loamy soil, 1/2 inch deep.",
+                "watering": "Water regularly to keep soil moist.",
+                "care": "Protect from extreme heat.",
+                "time_to_grow": "40-50 days.",
+                "harvest": "Cut leaves when mature."
             }
         },
         {
@@ -847,12 +847,12 @@
             "soil": "Sandy",
             "land_area": "50-100 sq ft",
             "planting_instructions": {
-                "seed": "Buy onion seeds.",
-                "planting": "Prepare the soil and plant seeds at the right depth.",
-                "watering": "Water as per the plant's requirement.",
-                "care": "Ensure proper sunlight and nutrients.",
-                "time_to_grow": "Varies by plant type.",
-                "harvest": "Harvest when mature and ready."
+                "seed": "Buy onion seeds or sets.",
+                "planting": "Plant in sandy or loamy soil, 1 inch deep.",
+                "watering": "Water lightly but consistently.",
+                "care": "Weed regularly and provide compost.",
+                "time_to_grow": "90-120 days.",
+                "harvest": "Pull when tops fall over and dry."
             }
         }
     ]
