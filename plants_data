@@ -1,0 +1,3004 @@
+{
+    "plants": [
+        {
+            "name": "Potato",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy potato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Chili",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy chili seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy lettuce seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Potato",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy potato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Chili",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy chili seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Mango",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy mango seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Mango",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy mango seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Potato",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy potato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy lettuce seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Potato",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy potato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Mango",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy mango seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Potato",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy potato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy lettuce seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy lettuce seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Potato",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy potato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Potato",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy potato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Chili",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy chili seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy lettuce seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Potato",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy potato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Chili",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy chili seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy lettuce seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Mango",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy mango seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy lettuce seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy lettuce seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Chili",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy chili seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Potato",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy potato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Mango",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy mango seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy lettuce seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Mango",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy mango seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Chili",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy chili seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Mango",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy mango seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Chili",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy chili seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Chili",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy chili seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Potato",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy potato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Sandy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy lettuce seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Orange",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy orange seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Lettuce",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy lettuce seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Sandy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Spinach",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy spinach seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Sandy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Carrot",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Sandy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy carrot seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Chili",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy chili seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "50-100 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Peas",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Loamy",
+            "land_area": "10-50 sq ft",
+            "planting_instructions": {
+                "seed": "Buy peas seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Apple",
+            "category": "Fruit",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy apple seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Mango",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy mango seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Strawberry",
+            "category": "Fruit",
+            "weather": "Moderate",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy strawberry seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Mango",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy mango seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Watermelon",
+            "category": "Fruit",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy watermelon seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Onion",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy onion seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Corn",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "300-500 sq ft",
+            "planting_instructions": {
+                "seed": "Buy corn seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Chili",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Sandy",
+            "land_area": "200-300 sq ft",
+            "planting_instructions": {
+                "seed": "Buy chili seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Tomato",
+            "category": "Vegetable",
+            "weather": "Hot",
+            "soil": "Loamy",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy tomato seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        },
+        {
+            "name": "Cabbage",
+            "category": "Vegetable",
+            "weather": "Cold",
+            "soil": "Clay",
+            "land_area": "100-200 sq ft",
+            "planting_instructions": {
+                "seed": "Buy cabbage seeds.",
+                "planting": "Prepare the soil and plant seeds at the right depth.",
+                "watering": "Water as per the plant's requirement.",
+                "care": "Ensure proper sunlight and nutrients.",
+                "time_to_grow": "Varies by plant type.",
+                "harvest": "Harvest when mature and ready."
+            }
+        }
+    ]
+}
